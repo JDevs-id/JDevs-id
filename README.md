@@ -34,6 +34,7 @@ My work sits between **software development**, **system analysis**, and **server
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white)
 
 #### Frontend & UI
@@ -49,6 +50,7 @@ My work sits between **software development**, **system analysis**, and **server
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge)
 ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
 
@@ -60,21 +62,8 @@ My work sits between **software development**, **system analysis**, and **server
 
 - Building maintainable internal systems with **Laravel, Inertia.js, React, and TailwindCSS**
 - Developing lightweight APIs using **Express.js** for specific backend services
-- Server deployment, optimization, backup, and monitoring
-- Educational technology and institutional digital workflows
-- Practical automation for daily IT operations
-
----
-
-### 📊 GitHub at a glance
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JDevs-id&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=67E8F9&amp;icon_color=22C55E&amp;text_color=E5E7EB&amp;cache_seconds=21600" alt="Tri Jaya Prasetya GitHub Stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDevs-id&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=67E8F9&amp;text_color=E5E7EB&amp;langs_count=8&amp;hide=blade,html,css&amp;cache_seconds=21600" alt="Top Languages" />
-
-</div>
+- Designing practical workflows for education, administration, and institutional systems
+- Handling server deployment, optimization, backup, monitoring, and troubleshooting
 
 ---
 
@@ -100,6 +89,20 @@ My work sits between **software development**, **system analysis**, and **server
 </table>
 
 </div>
+
+---
+
+### 📊 GitHub Stats & Most Used Languages
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JDevs-id&theme=radical&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" alt="Tri Jaya Prasetya GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDevs-id&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=8" alt="Most Used Languages" />
+</p>
+
+<!--
+If the public GitHub Readme Stats service is temporarily unavailable, the cards may show "Error Fetching Resource".
+For the most stable result, self-host github-readme-stats and replace github-readme-stats.vercel.app with your own deployed domain.
+-->
 
 ---
 
