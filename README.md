@@ -92,13 +92,9 @@ My work sits between **software development**, **system analysis**, and **server
 
 ---
 
-### 📊 GitHub Stats & Most Used Languages
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JDevs-id&theme=radical&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" alt="Tri Jaya Prasetya GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDevs-id&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=8" alt="Most Used Languages" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jdevs-id&layout=compact&langs_count=8&theme=omni" alt="Tri Jaya Prasetya GitHub Stats" />
 </p>
-
 <!--
 If the public GitHub Readme Stats service is temporarily unavailable, the cards may show "Error Fetching Resource".
 For the most stable result, self-host github-readme-stats and replace github-readme-stats.vercel.app with your own deployed domain.
